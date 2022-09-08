@@ -8,9 +8,11 @@
 🔴我在他处: 
 
 &emsp;&emsp;
+[![outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white "")](xue_h@outlook.com)
 [![豆瓣](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=Douban&logoColor=white "")](https://www.douban.com/people/137389273)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white "访问steam需要hosts工具或者梯子")](https://steamcommunity.com/id/sushiqiren/)
 [![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
+
 
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
