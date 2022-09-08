@@ -3,7 +3,11 @@
 <!--主页访问统计次数-->
 欢迎，主页访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
 
-## Connect with me  
+我在他处: 
+
+&emsp;&emsp;
+[![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
+
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -11,6 +15,7 @@
 </div>
 <!--下边两个并列-->
 <!--个人stats卡片-->
+<div align="center">
 <a href="https://github.com/qishisuren">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark" height="180"/>
 </a>
@@ -18,10 +23,11 @@
 <a href="https://github.com/qishisuren">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" height="180" />
 </a>
-
+</div>
 
 <!--下边两个并列-->
 <!--第一个仓库卡片-->
+<div align="center">
 <a href="https://qishisuren.github.io/MyHexo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" height="126"/>
 </a>
@@ -29,6 +35,7 @@
 <a href="https://qishisuren.github.io/MyHexo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" height="126"/>
 </a>
+</div>
 
 <!--
 **qishisuren/qishisuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
