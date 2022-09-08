@@ -1,19 +1,13 @@
 ### Hi there 👋
+
+<!--主页访问统计次数-->
+![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<!--主页访问统计次数-->
-![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <!--下边两个并列-->
 <!--个人stats卡片-->
 <a href="https://github.com/qishisuren">
