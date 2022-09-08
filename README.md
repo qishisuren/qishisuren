@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--这个注释方法无效
 <div style="display:none">这是一段注释</div>
+-->
 <!--
 这是注释
 下边这几个方法都是注释
