@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <!--主页访问统计次数-->
-欢迎，主页访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
+欢迎访问我的主页，访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
+🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪
 
-我在他处: 
+🔴我在他处: 
 
 &emsp;&emsp;
 [![豆瓣](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=Douban&logoColor=white "")](https://www.douban.com/people/137389273)
