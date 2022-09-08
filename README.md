@@ -7,20 +7,25 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--下边两个并列-->
+<!--个人stats卡片-->
+<a href="https://github.com/qishisuren">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark" height="180"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!--常用语言卡片-->
+<a href="https://github.com/qishisuren">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" height="180" />
 </a>
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--下边两个并列-->
+<!--第一个仓库卡片-->
+<a href="https://qishisuren.github.io/MyHexo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" height="126"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark&show_owner=true" height="126"/>
+<!--第二个仓库卡片-->
+<a href="https://qishisuren.github.io/MyHexo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" height="126"/>
 </a>
 
 <!--
