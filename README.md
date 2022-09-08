@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--主页访问统计次数-->
-![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
+欢迎，主页访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,7 +12,7 @@
 <!--下边两个并列-->
 <!--个人stats卡片-->
 <a href="https://github.com/qishisuren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark" height="180"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180"/>
 </a>
 <!--常用语言卡片-->
 <a href="https://github.com/qishisuren">
