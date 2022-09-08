@@ -12,7 +12,7 @@
 <!--下边两个并列-->
 <!--个人stats卡片-->
 <a href="https://github.com/qishisuren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" height="180"/>
 </a>
 <!--常用语言卡片-->
 <a href="https://github.com/qishisuren">
