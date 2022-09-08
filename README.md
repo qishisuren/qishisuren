@@ -1,4 +1,6 @@
 ### Hi there 👋
+<!--主页访问统计次数-->
+![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg)
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
