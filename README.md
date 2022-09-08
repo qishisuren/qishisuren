@@ -6,7 +6,8 @@
 我在他处: 
 
 &emsp;&emsp;
-[![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
+[![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
+[![steam](https://img.shields.io/badge/Steam-000000?style=plastic&logo=Steam&logoColor=white "访问steam需要hosts工具或者梯子")](https://steamcommunity.com/id/sushiqiren/)
 
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
@@ -37,20 +38,6 @@
 </a>
 </div>
 
-<!--
-**qishisuren/qishisuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--这个注释方法无效
 <div style="display:none">这是一段注释</div>
