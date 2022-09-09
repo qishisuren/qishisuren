@@ -7,7 +7,6 @@
 xue_h@outlook.com
 
 &emsp;&emsp;
-![outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white "这个不是链接")
 [![豆瓣](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=Douban&logoColor=white "豆瓣主页，主要标记看过的电影")](https://www.douban.com/people/137389273)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white "我的steam主页，需要hosts工具或者梯子")](https://steamcommunity.com/id/sushiqiren/)
 [![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/)
