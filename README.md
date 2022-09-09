@@ -18,11 +18,11 @@ xue_h@outlook.com
 <!--个人stats卡片-->
 <div align="center">
 <a href="https://github.com/qishisuren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&title_color=000"  width="49.70988%" align="Right"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qishisuren&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&title_color=000"  width="49.70988%"/>
 </a>
 <!--常用语言卡片-->
 <a href="https://github.com/qishisuren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qishisuren&langs_count=6&layout=compact&theme=dark&text_color=000&bg_color=0,52fa5a,4dfcff,c64dff&title_color=000"  width="48.9555%" align="Left" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qishisuren&langs_count=6&layout=compact&theme=dark&text_color=000&bg_color=0,52fa5a,4dfcff,c64dff&title_color=000"  width="48.9555%"/>
 </a>
 </div>
 
@@ -30,11 +30,11 @@ xue_h@outlook.com
 <!--第一个仓库卡片-->
 <div align="center">
 <a href="https://qishisuren.github.io/MyHexo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" height="126"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" width="49.7%"/>
 </a>
 <!--第二个仓库卡片-->
 <a href="https://qishisuren.github.io/MyHexo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" height="126"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qishisuren&repo=MyHexo&theme=dark&show_owner=true" width="49.7%"/>
 </a>
 </div>
 
