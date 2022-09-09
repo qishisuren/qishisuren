@@ -22,7 +22,7 @@ xue_h@outlook.com
 </a>
 <!--常用语言卡片-->
 <a href="https://github.com/qishisuren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qishisuren&langs_count=6&layout=compact&theme=dark&text_color=000&bg_color=0,52fa5a,4dfcff,c64dff&title_color=000"  width="49.3%" align="Left" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qishisuren&langs_count=6&layout=compact&theme=dark&text_color=000&bg_color=0,52fa5a,4dfcff,c64dff&title_color=000"  width="49.6%" align="Left" />
 </a>
 </div>
 
