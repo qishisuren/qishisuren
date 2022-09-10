@@ -73,11 +73,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white "Linux")]()
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white "Pytest")]()
 [![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit&logoColor=white "Junit")]()
-[![PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white "PhotoShop")]()
-[![Premiere pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white "Premiere pro")]()
-[![Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white "Dreamweaver")]()
-[![Charles](https://img.shields.io/badge/Charles-00599C?style=for-the-badge&logo=&logoColor=white "Charles，没有这个图标")]()
+[![PhotoShop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white "PhotoShop")]()
+[![Premiere pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white "Premiere pro")]()
+[![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white "Dreamweaver")]()
+[![Charles](https://img.shields.io/badge/Charles-8EE5EE?style=for-the-badge&logo=&logoColor=white "Charles，没有这个图标")]()
 [![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge&logo=&logoColor=white "Appium，没有这个图标")]()
+
 
 🟡准备学的：
 
@@ -88,6 +89,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
+[![TestNG](https://img.shields.io/badge/TestNG-yellow?style=for-the-badge&logo=&logoColor=white "TestNG，没有这个图标")]()
 
 
 🟢我在他处: 
