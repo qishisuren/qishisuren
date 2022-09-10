@@ -1,16 +1,7 @@
 <!--主页访问统计次数-->
 ### 欢迎访问我的主页👋，累计访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg "PV数（page view），每次刷新都会涨~")
 
-🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪
 
-🔴我在他处: 
-xue_h@outlook.com
-
-&emsp;&emsp;
-[![豆瓣](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=Douban&logoColor=white "豆瓣主页，主要标记看过的电影")](https://www.douban.com/people/137389273)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white "我的steam主页，需要hosts工具或者梯子")](https://steamcommunity.com/id/sushiqiren/)
-[![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/)
-[![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
 
 
 <!--下边两个并列-->
@@ -40,6 +31,19 @@ xue_h@outlook.com
 <!--奖杯-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=qishisuren&theme=onedark)]()
 
+🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪🔴🟠🟡🟢🔵🟣🟤⚫⚪
+
+🔴我在他处: 
+xue_h@outlook.com
+
+&emsp;&emsp;
+[![豆瓣](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=Douban&logoColor=white "豆瓣主页，主要标记看过的电影")](https://www.douban.com/people/137389273)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white "我的steam主页，需要hosts工具或者梯子")](https://steamcommunity.com/id/sushiqiren/)
+[![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/)
+[![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
+
+https://stats.justsong.cn/api/github?username=sushiqiren&theme=dark
+https://stats.justsong.cn/api/zhihu?username=excited-vczh
 
 <!--这个注释方法无效
 <div style="display:none">这是一段注释</div>
