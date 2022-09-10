@@ -1,6 +1,6 @@
 <!--主页访问统计次数-->
-### 欢迎访问我的主页👋，累计访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg "PV数（page view），每次刷新都会涨~")
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qishisuren.qishisuren&left_color=gray&right_color=blue "也是PV数（page view），每次刷新都会涨~")
+### 欢迎访问我的主页👋，累计访问次数![Visitor Count](https://profile-counter.glitch.me/qishisuren/count.svg "PV数（page view），每次刷新都会涨~")![visitors](https://visitor-badge.glitch.me/badge?page_id=qishisuren.qishisuren&left_color=gray&right_color=blue "也是PV数（page view），每次刷新都会涨~")
+
 
 
 
@@ -43,8 +43,10 @@ xue_h@outlook.com
 [![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/)
 [![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
 
-[![知乎卡片](https://stats.justsong.cn/api/zhihu?username=xue-gong-zi-62&theme=dark "知乎主页")](https://www.zhihu.com/people/xue-gong-zi-62)
-[![GitHub卡片](https://stats.justsong.cn/api/github?username=qishisuren&theme=dark "GitHub主页")](https://github.com/qishisuren)
+[![知乎卡片](https://stats.justsong.cn/api/zhihu?username=xue-gong-zi-62&theme=dark "知乎卡片")](https://www.zhihu.com/people/xue-gong-zi-62)
+[![GitHub卡片](https://stats.justsong.cn/api/github?username=qishisuren&theme=dark "GitHub卡片")](https://github.com/qishisuren)
+[![B站卡片](https://stats.justsong.cn/api/bilibili/?id=28163746&theme=dark "B站卡片")](https://bilibili.com)
+[![牛客卡片](https://stats.justsong.cn/api/nowcoder?id=458080331&theme=dark "牛客卡片")]([https://github.com/qishisuren](https://www.nowcoder.com/users/458080331))
 
 
 <!--这个注释方法无效
