@@ -65,14 +65,15 @@
 &emsp;&emsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java")]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white "C++")]()
-[![Html5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white "Html5")]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white "MySQL")]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white "Git")]()
-[![Jmeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white "Jmeter")]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white "Linux")]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white "Git")]()
+[![Html5](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white "Html5")]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")]()
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white "Pytest")]()
-[![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit&logoColor=white "Junit")]()
+[![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white "Junit")]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white "MySQL")]()
+[![Jmeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white "Jmeter")]()
 [![PhotoShop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white "PhotoShop")]()
 [![Premiere pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white "Premiere pro")]()
 [![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white "Dreamweaver")]()
@@ -84,21 +85,20 @@
 
 &emsp;&emsp;
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white "Golang")]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript")]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "Python")]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D "Vue.js")]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white "Python")]()
 [![TestNG](https://img.shields.io/badge/TestNG-yellow?style=for-the-badge&logo=&logoColor=white "TestNG，没有这个图标")]()
 
 
-🟢我在他处: 
-xue_h@outlook.com
+🟢我在他处（下面的logo和卡片是可点击的）: 
 
 &emsp;&emsp;
 [![豆瓣](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=Douban&logoColor=white "豆瓣主页，主要标记看过的电影")](https://www.douban.com/people/137389273)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white "我的steam主页，需要hosts工具或者梯子")](https://steamcommunity.com/id/sushiqiren/)
-[![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/)
+[![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/people/xue-gong-zi-62)
 [![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
 
 [![知乎卡片](https://stats.justsong.cn/api/zhihu?username=xue-gong-zi-62&theme=dark "知乎卡片")](https://www.zhihu.com/people/xue-gong-zi-62)
