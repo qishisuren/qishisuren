@@ -104,11 +104,13 @@
 [![知乎](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=Zhihu&logoColor=white "不是真链接")](https://www.zhihu.com/people/xue-gong-zi-62)
 [![B站](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white "B站暂时没什么好作品，先不放真链接了")](https://www.bilibili.com)
 
-[![知乎卡片](https://stats.justsong.cn/api/zhihu?username=xue-gong-zi-62&theme=dark "知乎卡片")](https://www.zhihu.com/people/xue-gong-zi-62)
-[![GitHub卡片](https://stats.justsong.cn/api/github?username=qishisuren&theme=dark "GitHub卡片")](https://github.com/qishisuren)
-[![B站卡片](https://stats.justsong.cn/api/bilibili/?id=28163746&theme=dark "B站卡片")](https://bilibili.com)
-[![牛客卡片](https://stats.justsong.cn/api/nowcoder?id=458080331&theme=dark "牛客卡片")]([https://github.com/qishisuren](https://www.nowcoder.com/users/458080331))
 
+[![GitHub卡片](https://stats.justsong.cn/api/github?username=qishisuren&theme=dark "GitHub卡片")](https://github.com/qishisuren)
+[![牛客卡片](https://stats.justsong.cn/api/nowcoder?id=458080331&theme=dark "牛客卡片")]([https://github.com/qishisuren](https://www.nowcoder.com/users/458080331))
+<!--
+[![知乎卡片](https://stats.justsong.cn/api/zhihu?username=xue-gong-zi-62&theme=dark "知乎卡片")](https://www.zhihu.com/people/xue-gong-zi-62)
+[![B站卡片](https://stats.justsong.cn/api/bilibili/?id=28163746&theme=dark "B站卡片")](https://bilibili.com)
+-->
 <!--GitHub活动统计-->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qishisuren&theme=dracula "GitHub活动统计")]()
 
